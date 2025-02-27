@@ -1,0 +1,10 @@
+{
+  "flights": [
+    { "id": 1, "origin": "New York", "destination": "London", "price": 500 },
+    { "id": 2, "origin": "Paris", "destination": "Tokyo", "price": 700 }
+  ],
+  "secure-data": [
+    { "id": 1, "info": "Datos confidenciales 1" },
+    { "id": 2, "info": "Datos confidenciales 2" }
+  ]
+}
